@@ -1,9 +1,5 @@
 # Requisitos
 
-
-
-## Exemplo da Estrutura de Requisitos
-
 Lista de Stakeholders (Personas).
 
 - No mínimo 10 Requisitos Funcionais (RF) (O que o sistema faz? Ex: "Paciente deve poder...").
