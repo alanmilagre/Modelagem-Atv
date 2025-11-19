@@ -12,4 +12,4 @@ Participantes:
 
 - Thais Sanches
 
-- Joyce Oliveira
+- Joice Oliveira
