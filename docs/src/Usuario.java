@@ -1,9 +1,9 @@
 public class Usuario{
-    String nome;
-    String tipo;
-    String endereco;
-    String email;
-    String telefone;
+    protected String nome;
+    protected String tipo;
+    protected String endereco;
+    protected String email;
+    protected String telefone;
 
     public Usuario(String nome, String tipo, String endereco, String email, String telefone) {
         this.nome = nome;
