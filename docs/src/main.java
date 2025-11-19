@@ -32,5 +32,6 @@ public class Main {
         } while (opcao != 4);
         
         sc.close();
+
     }
 }
