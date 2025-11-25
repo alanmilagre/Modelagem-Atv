@@ -1,0 +1,2 @@
+# Link do diagrama de classe editável no lucidchart
+https://lucid.app/lucidchart/ab82a02b-dbe3-4852-a584-54becaf819ee/edit?viewport_loc=1646%2C-175%2C2977%2C1482%2C0_0&invitationId=inv_57a80a89-bb81-4748-b6fe-d5b7ccf7385c
